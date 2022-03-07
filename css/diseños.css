@@ -1,0 +1,72 @@
+
+font1
+{
+	color: #512DA8;
+	font-family: "Arial Black";
+	font-size: 160%;
+}
+
+
+font1_1
+{
+	color: #512DA8;
+	font-family: "Arial";
+	font-size: 160%;
+}
+
+fontp
+{
+	color: #512DA8;
+	font-family: "Candara";
+	font-size: 430%;
+}
+
+font2
+{
+	color: #009688;
+	font-family: "Arial Black";
+	font-size: 160%;
+}
+
+fontN
+{
+	color: black;
+	font-family: "Arial";
+	font-size: 120%;
+}
+
+fontN2
+{
+	color: white;
+	font-family: "Arial Black";
+	font-size: 120%;
+}
+
+table
+{
+	width: 100%;
+}
+
+li
+{
+	font-family: "Arial";
+	font-size: large; 
+}
+
+p
+{
+	font-family: "Arial";
+	font-size: large; 
+	text-align: justify;
+}
+
+div
+{
+	text-align: center;
+}
+
+body
+{
+	background-color: #EEEEEE;
+	background-size: 100%;
+}
